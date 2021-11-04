@@ -1,4 +1,4 @@
-### Hello there all you Humand and Bots! 👋
+### Hello there all you Humans and Bots! 👋
 
 <!--
 **bahreex/bahreex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
