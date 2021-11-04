@@ -1,6 +1,8 @@
-# Welcome to my GitHub Matrix!!! 👋
+# Welcome to my Multiverse Matrix!!! 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=bahreex&show_icons=true&theme=dark" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahreex&layout=compact)](https://github.com/bahreex/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=bahreex&show_icons=true&theme=dark" /> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahreex&layout=compact)](https://github.com/bahreex/github-readme-stats)
 
 - 🔭 I’m currently working on: Building Cloud based Infrastructure, Native Apps, Data, and Automation Solutions on Microsoft Azure.
 - 🌱 I’m currently learning: Data Science and AI
