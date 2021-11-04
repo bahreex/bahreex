@@ -1,5 +1,7 @@
 ### Hello there all you Humans and Bots! 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=bahreex&show_icons=true&theme=tokyonight" />
+
 <!--
 **bahreex/bahreex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
