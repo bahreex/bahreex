@@ -62,8 +62,6 @@ I primarily work on architecting complex Cloud solutions for clients across the 
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=vision-friendly-dark&animation=grow_out_in&layout=default&font=Redressed)
 
-<br/>
-
 ## 🔢 GitHub Stats
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=bahreex&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/bahreex)
 
