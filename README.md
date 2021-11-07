@@ -58,10 +58,6 @@ I primarily work on architecting complex Cloud solutions for clients across the 
 
 <br/>
 
-<br/>
-
-<br/>
-
 ## 📔 Quotes
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=vision-friendly-dark&animation=grow_out_in&layout=default&font=Redressed)
