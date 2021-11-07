@@ -4,37 +4,40 @@
   <img src="https://img.shields.io/github/stars/bahreex?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
+
 # Hello, Folks!!! 👋
 
-My name is Arjun Bahree. I am an Enterprise Cloud Architect working for Accenture.
+My name is Arjun Bahree. I am based out of Bangalore, India.
 
-At work, I wear multiple hats at work besides architecting complex Cloud solutions. I work as an Infrastructure Engg, DevOps Engg, Developer, Advisor, 
+I primarily work on architecting complex Cloud solutions for clients across the globe. I specialize on Cloud Infrastructure Engineering, DevOps and IaC, Cloud Native Apps Development, and Data Engineering.
 
-
+<br/>
 
 ## 🤝 Connect with me:
 
 <a href="https://twitter.com/arjunbahree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arjunbahree" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bahree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bahree" height="30" width="40" /></a>
 
-#
-
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/bahreex/blob/master/GIF/github.gif"></a>
 <br/>
 
 ## 🛠 Technologies & Tools
+
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/bahreex/bahreex/blob/main/gif/github-daftpunk.gif"></a>
+<br/>
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&color=blue)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=windows&color=blue)
+<br/>
 ![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=plastic&logo=microsoft-azure&color=blue)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=plastic&logo=google-cloud&color=blue)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=plastic&logo=amazon&color=blue)
-
+<br/>
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=plastic&logo=csharp&color=blue)
 ![](https://img.shields.io/badge/Code-PowerShell-informational?style=plastic&logo=powershell&color=blue)
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&color=blue)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=plastic&logo=go&color=blue)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=plastic&logo=gnu-bash&color=blue)
-
+<br/>
 ![](https://img.shields.io/badge/Tools-Azure_DevOps-informational?style=plastic&logo=azure-devops&color=blue)
 ![](https://img.shields.io/badge/Tools-Gitlab-informational?style=plastic&logo=gitlab&color=blue)
 ![](https://img.shields.io/badge/Tools-Terraform-informational?style=plastic&logo=terraform&color=blue)
@@ -42,6 +45,28 @@ At work, I wear multiple hats at work besides architecting complex Cloud solutio
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&color=blue)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=plastic&logo=kubernetes&color=blue)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=plastic&logo=red-hat-open-shift&color=blue)
+<br/>
+![](https://img.shields.io/badge/Frameworks-DOTNET-informational?style=plastic&logo=dotnet&color=blue)
+![](https://img.shields.io/badge/Frameworks-Flask-informational?style=plastic&logo=flask&color=blue)
+![](https://img.shields.io/badge/Frameworks-Django-informational?style=plastic&logo=django&color=blue)
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+## 📔 Quotes
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=vision-friendly-dark&animation=grow_out_in&layout=default&font=Redressed)
+
+<br/>
 
 ## 🔢 GitHub Stats
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=bahreex&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/bahreex)
@@ -68,7 +93,7 @@ At work, I wear multiple hats at work besides architecting complex Cloud solutio
 
 <div align="center">
 
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 my repos!
 
 </div>
 
